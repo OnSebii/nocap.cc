@@ -1,1 +1,1 @@
-# nocap.cc
+nocap y full cap 
