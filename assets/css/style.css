@@ -1,3 +1,31 @@
-h1 {
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0c0c0c;
+  height: 100%;
   font-family: 'Raleway', sans-serif;
+  color: #fff;
+}
+
+.emoji {
+  font-size: 60px;
+}
+
+.box1 {
+  box-sizing: border-box;
+  border: 3px solid #282828;
+  height: 100%;
+}
+
+.box2 {
+  box-sizing: border-box;
+  border: 1px solid #3c3c3c;
+  height: 100%;
+}
+
+.gsBox {
+  background: linear-gradient(to right, #1e5799 0%, #f300ff 50%, #e0ff00 100%);
+  height: 2px;
+  border-bottom: 1px solid #0c0c0c;
 }
